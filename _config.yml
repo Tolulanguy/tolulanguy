@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my Page"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tolulope Oladele"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "my-picture.jpeg"
   name             : "Tolulope Samuel Oladele"
   pronouns         : "he/him"
-  bio              : "Aspiring Computational Neuroscientist, Visual & User Experience Designer"
+  bio              : "Computational Neuroscience | Visual & User Experience Designer"
   location         : "Nigeria"
   employer         : "University of Medical Sciences"
   uri              : # URL
