@@ -20,7 +20,8 @@ Transition to Computational Neuroscience
 Driven by a desire to delve deeper into the neural mechanisms of the brain, my focus was fully transitioned to computational neuroscience. By combining my strong background in neuroanatomy with newfound expertise in modeling neural networks, I aim to uncover novel insights into the computational principles of the brain. Moving forward, I aim to explore the intersection of neuroscience, computation, and cognition. I am always eager to apply my skills in computational neuroscience to study neural dynamics, unravel complex cognitive processes, and explore potential therapeutic interventions for neurological disorders.
 To enhance my understanding of computational neuroscience, I actively participate in workshops, courses, and training programs focused on modeling neural networks. These experiences provide me with the tools and knowledge necessary to tackle the most pressing questions in the field. Thank you for visiting my page. You can explore my very few projects on my GitHub to join me on this journey of discovery.
 
-In my leisure time, I often explore the captivating world of anime and triple-A games. I do enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like [CBR.com](https://www.cbr.com/author/tolu-oladele/).
+======
+In my leisure time, I sometimes explore the captivating world of anime and triple-A games. I do enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like [CBR.com](https://www.cbr.com/author/tolu-oladele/).
 
 Activities
 ------
@@ -30,4 +31,3 @@ Activities
 4. [Upcoming Course] IRCN and Chen Institute Joint Course on Neuro-Inspired Computation, University of Tokyo. July, 2024.
 5. [Upcoming Workshop] NeuroDataReHack - Janelia Research Campus in Ashburn, VA, USA. July, 2024.
 
-M
