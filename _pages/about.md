@@ -21,7 +21,6 @@ Driven by a desire to delve deeper into the neural mechanisms of the brain, my f
 To enhance my understanding of computational neuroscience, I actively participate in workshops, courses, and training programs focused on modeling neural networks. These experiences provide me with the tools and knowledge necessary to tackle the most pressing questions in the field. Thank you for visiting my page. You can explore my very few projects on my GitHub to join me on this journey of discovery.
 
 ------
-
 In my leisure time, I sometimes explore the captivating world of anime and triple-A games. I do enjoy analyzing and sharing my insights on various anime series on globally renowned entertainment websites like [CBR.com](https://www.cbr.com/author/tolu-oladele/).
 
 Activities
